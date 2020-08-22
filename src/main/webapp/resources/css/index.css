@@ -1,0 +1,61 @@
+.table-container {
+    margin-top: 100px;
+}
+
+.table-container h1 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 300;
+    margin-bottom: 50px;
+}
+
+.table {
+    margin: 0 auto;
+    width: 80%;
+}
+
+.table .objbox .obj tbody tr td {
+    white-space: normal;
+    word-wrap: break-word;
+}
+
+.table tr {
+    height: 58px;
+
+}
+
+.table .xhdr tbody tr td {
+    font-size: 16px !important;
+}
+
+.table .xhdr tbody tr td .hdrcell {
+    margin-top: 10px;
+}
+
+.table .btn {
+    font-size: 14px;
+    padding: 5px;
+    width: 60px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+div.gridbox .objbox {
+    overflow-x: hidden !important;
+    overflow-y: auto !important;
+}
+
+.add-btn-container {
+    width: 1000px;
+    margin: 20px auto auto auto;
+}
+
+.add-btn-wrapper {
+    width: 100px;
+    margin-left: auto;
+}
+
+.add-btn-wrapper button {
+    width: 100%;
+}
+
